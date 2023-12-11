@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Gabriel </h1>
-<h3 align="center">A system analystic and taking the first steps on cloud computing , sometimes I like to make some devweb shit.</h3>
+<h1 align="center">Hi 👋, I'm Gabriel a.k.a Nyess </h1>
+<h3 align="center">A system analystic and fullstack dev</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/207/207125.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gab1337&label=Profile%20views&color=0e75b6&style=flat" alt="gab1337" /> </p>
 
 - 🔭 I’m currently working on **Industry 4.0 Project's**
 
-- 🌱 I’m currently learning **Devops and cloud computing**
+- 🌱 I’m currently learning **Cloud computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/nyess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nyess" height="30" width="40" /></a>
 <a href="https://twitter.com/babynyess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="babynyess" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabriel carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel carvalho" height="30" width="40" /></a>
-<a href="https://instagram.com/gabriel10011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel10011" height="30" width="40" /></a>
+<a href="https://instagram.com/gabriel_10011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel10011" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
