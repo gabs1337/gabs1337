@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel a.k.a Nyess </h1>
 <h3 align="center">A system analystic and fullstack dev</h3>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/207/207125.gif">
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/207/207125.gif](https://raw.githubusercontent.com/Sylux6/Sylux6/main/pout.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gab1337&label=Profile%20views&color=0e75b6&style=flat" alt="gab1337" /> </p>
 
